@@ -73,3 +73,10 @@ Page 2
 6. Never expose bower.json / package.json. The world doesn't need to know what packages you're using and neither should you tell them. Move `bower.json` out of the `public` directory and add a static path to the `bower_components` folder in express. 
 
     `app.use('/bower_components', express.static(__dirname + '/bower_components'));`
+
+## features
+- mithriljs, sequelizejs, parceljs
+
+## How to start
+- npm install
+- npm start
