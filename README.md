@@ -6,10 +6,11 @@ In this assessment, you will be required to demonstrate your understanding on:
 2. Performing validations and showing error messages appropriately.
 3. Integration with third-party libraries.
 4. Implementing best practises and clean codes, e.g. reusable codes that can be used repetitively, in different screens, projects, or by other team members.
+5. Implement best security practises and frameworks, e.g. implementing OWASP top 10
 
 # Tech Requirements
 1. Develop frontend with ReactJS
-2. Develop APIs with NodeJS using Express and Sequelize framework. You may use either MySQL or PostgreSQL database
+2. Develop APIs with NodeJS using Express. You may choose your database of choice (Preferbly MySQL or MongoDB)
 
 # Deliverables 
 
